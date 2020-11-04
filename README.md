@@ -9,7 +9,7 @@ this is my number 5 project, in here im trying to apply some strategy patterns(v
 Example 1
 java Main -mode enc -in road_to_treasure.txt -out protected.txt -key 5 -alg unicode
 
-This command must get data from the file road_to_treasure.txt, encrypt the data with the key 5, create a file called protected.txt and write ciphertext to it.
+This command must get data from the file treasure.txt, encrypt the data with the key 5, create a file called protected.txt and write ciphertext to it.
 
 Example 2
 
