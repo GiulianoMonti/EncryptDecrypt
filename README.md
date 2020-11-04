@@ -19,18 +19,21 @@ Output:
 \jqhtrj%yt%m~ujwxpnqq&
 
 Example 3
+
 Input:
 java Main -key 5 -alg unicode -data "\jqhtrj%yt%m~ujwxpnqq&" -mode dec
 Output:
 Welcome to hyperskill!
 
 Example 4:
+
 Input:
 java Main -key 5 -alg shift -data "Welcome to hyperskill!" -mode enc
 Output:
 Bjqhtrj yt mdujwxpnqq!
 
 Example 5:
+
 Input:
 java Main -key 5 -alg shift -data "Bjqhtrj yt mdujwxpnqq!" -mode dec
 Output:
